@@ -3,7 +3,7 @@
 /**
  * Discord Command Cleaner
  * A utility to list and delete Discord slash commands from the cache memory.
- * Single file version
+
  */
 
 // Importing required dependencies
