@@ -2,11 +2,11 @@
 
 /**
  * Discord Command Cleaner
- * A utility to list and delete Discord slash commands
+ * A utility to list and delete Discord slash commands from the cache memory.
  * Single file version
  */
 
-// Import required dependencies
+// Importing required dependencies
 require('dotenv').config();
 const inquirer = require('inquirer');
 const chalk = require('chalk');
